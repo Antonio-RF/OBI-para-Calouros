@@ -22,7 +22,7 @@ int main() {
 			if (v[j]>=i+1) cout << 1 << " ";
 			else cout << 0 << " ";
 		}
-		cout << endl;
+		cout << "\n";
 	}
 }
  

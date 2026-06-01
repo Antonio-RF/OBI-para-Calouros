@@ -14,8 +14,8 @@ int main() {
 		c -= d;
 	}
 
-	if (deu) cout << "S" << endl;
-	else cout << "N" << endl;
+	if (deu) cout << "S\n";
+	else cout << "N\n";
 
 	return 0;
 }

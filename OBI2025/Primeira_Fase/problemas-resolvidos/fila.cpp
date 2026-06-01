@@ -19,6 +19,6 @@ int main() {
 
 		maior = max(maior, v[i]);
 	}
-	cout << ans << endl;
+	cout << ans << "\n";
 }
  
